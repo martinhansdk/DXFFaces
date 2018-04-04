@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"babe1fee-e218-4837-a70c-24aa18b4770b",
+	"author":	"Martin Hans",
+	"description":	{
+		"":	"Export the selected faces to DXF."
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
